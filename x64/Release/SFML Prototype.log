@@ -1,0 +1,19 @@
+﻿  SFML Prototype.cpp
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\Objects.h(11,24): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(170,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(173,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(253,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(253,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(487,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(488,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(489,103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  4 of 292 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SFML Prototype.vcxproj -> C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\x64\Release\SFML Prototype.exe

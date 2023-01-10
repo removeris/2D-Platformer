@@ -1,0 +1,5 @@
+﻿  SFML Prototype.cpp
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(147,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(150,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\SFML Prototype.cpp(262,78): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  SFML Prototype.vcxproj -> C:\Users\silei\Desktop\Uni\Procedurinis Programavimas\Namu Darbas\SFML Prototype\x64\Debug\SFML Prototype.exe
